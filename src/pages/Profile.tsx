@@ -1,8 +1,7 @@
-
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { BadgeCheck, Mail, Phone, MapPin, School, Calendar } from "lucide-react";
+import { BadgeCheck, Mail, Phone, MapPin, School, Calendar, MessageSquare, FileText } from "lucide-react";
 
 const Profile = () => {
   return (
@@ -112,4 +111,3 @@ const activities = [
 ];
 
 export default Profile;
-

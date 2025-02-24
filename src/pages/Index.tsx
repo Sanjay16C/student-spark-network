@@ -1,6 +1,5 @@
-
 import { Link } from "react-router-dom";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, MessageSquare, Calendar as CalendarIcon, FileText } from "lucide-react";
 
 const Index = () => {
   return (
@@ -78,4 +77,3 @@ const features = [
 ];
 
 export default Index;
-
